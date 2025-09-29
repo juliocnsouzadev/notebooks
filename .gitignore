@@ -8,3 +8,6 @@
 
 # bootstrap files
 /**/**/bootstrap/**
+
+# cache files
+LangChain/rag/cache/*
