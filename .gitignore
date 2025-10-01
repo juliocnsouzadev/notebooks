@@ -11,3 +11,5 @@
 
 # cache files
 LangChain/rag/cache/*
+*.sqlite3
+*.bin
