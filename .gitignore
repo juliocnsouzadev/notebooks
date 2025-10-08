@@ -13,3 +13,8 @@
 LangChain/rag/cache/*
 *.sqlite3
 *.bin
+Whisper/.DS_Store
+.DS_Store
+
+# whisper data
+/Whisper/audios/
