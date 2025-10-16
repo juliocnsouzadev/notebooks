@@ -1,0 +1,42 @@
+date,time,cash_type,card,price,coffee_name
+1/15/2024,08:30,card,Visa,4.50,Espresso
+1/18/2024,09:15,cash,,3.75,Americano
+1/22/2024,10:00,card,MasterCard,5.25,Latte
+1/25/2024,11:30,card,Visa,4.75,Cappuccino
+2/3/2024,08:45,cash,,3.50,Espresso
+2/8/2024,09:30,card,Amex,6.00,Mocha
+2/12/2024,10:15,card,Visa,5.50,Flat White
+2/20/2024,11:00,cash,,4.25,Macchiato
+2/28/2024,14:30,card,MasterCard,4.50,Espresso
+3/5/2024,08:00,card,Visa,5.75,Caramel Latte
+3/10/2024,09:45,cash,,3.75,Americano
+3/15/2024,10:30,card,Visa,5.25,Latte
+3/20/2024,11:15,card,MasterCard,4.75,Cappuccino
+3/28/2024,13:00,cash,,4.50,Espresso
+1/10/2025,08:15,card,Visa,4.75,Espresso
+1/15/2025,09:00,cash,,4.00,Americano
+1/20/2025,10:15,card,MasterCard,5.50,Latte
+1/25/2025,11:45,card,Visa,5.00,Cappuccino
+1/30/2025,14:00,cash,,4.75,Espresso
+2/5/2025,08:30,card,Amex,6.25,Mocha
+2/10/2025,09:15,card,Visa,5.75,Flat White
+2/15/2025,10:00,cash,,4.50,Macchiato
+2/20/2025,11:30,card,MasterCard,4.75,Espresso
+2/28/2025,13:15,card,Visa,5.50,Latte
+3/3/2025,08:45,cash,,4.00,Americano
+3/8/2025,09:30,card,Visa,6.00,Caramel Latte
+3/12/2025,10:15,card,MasterCard,5.25,Latte
+3/18/2025,11:00,cash,,5.00,Cappuccino
+3/25/2025,12:30,card,Visa,4.75,Espresso
+3/30/2025,14:45,card,Amex,5.75,Mocha
+4/5/2024,09:00,card,Visa,4.50,Espresso
+4/10/2024,10:15,cash,,3.75,Americano
+5/12/2024,11:30,card,MasterCard,5.25,Latte
+6/20/2024,13:00,card,Visa,4.75,Cappuccino
+7/8/2024,08:45,cash,,3.50,Espresso
+8/15/2024,09:30,card,Amex,6.00,Mocha
+9/22/2024,10:15,card,Visa,5.50,Flat White
+10/10/2024,11:00,cash,,4.25,Macchiato
+11/18/2024,14:30,card,MasterCard,4.50,Espresso
+12/25/2024,15:00,card,Visa,5.75,Caramel Latte
+
